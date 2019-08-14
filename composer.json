@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/za_ukrainianlocalization",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License",
+    "homepage": "",
+    "description": "If you are building website for Ukraine - use this extension to enable Ukrainian language in your shop.",
+    "authors": [
+    {
+        "name": "SebWeo.com",
+        "email": "anzavad@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
